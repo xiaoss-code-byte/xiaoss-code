@@ -1,0 +1,348 @@
+{
+  "main": {
+    "id": "c9f9ee027468f034",
+    "type": "split",
+    "children": [
+      {
+        "id": "796b660c8dde5497",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14405ff5704801f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🍀 花园导览/🍀 花园导览.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49d8dfbba8804bf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "98bf65567db24074",
+        "type": "tabs",
+        "dimension": 67.54285714285714,
+        "children": [
+          {
+            "id": "aa5b6eac40ab5517",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d99e2950dbcef4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "664be766476e3a4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fe66c35260def5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "48e5c6c0b999baf4",
+        "type": "tabs",
+        "dimension": 32.457142857142856,
+        "children": [
+          {
+            "id": "6ceecea4c8d42745",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🍀 花园导览/🍀 花园导览.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ec24bc1f90b5ec69",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "🍀 花园导览/🍀 花园导览.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8974052540515883,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "255e47e4612a9918",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🍀 花园导览/🍀 花园导览.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c7e30a4edfb2b609",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🍀 花园导览/🍀 花园导览.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "b04bae835715e106",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf92a8744d8764e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e00d8d7eab509c8",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d77a1adeb31c077e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "79c8c7732340cf8d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3a20b61b8cca4fb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "21de49bada52aecc",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d74d97683fb4894",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "4b8ead11073885ef",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "66ecccc21c699081",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "homepage:Open homepage": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "janitor:Janitor: scan vault": false,
+      "publish:发布更改": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "omnisearch:Omnisearch": false,
+      "notion-like-tables:Create loom": false,
+      "dbfolder:创建一个新数据库表": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "cmdr:聚焦上方标签页组": false,
+      "cmdr:聚焦左侧标签页组": false,
+      "obsidian-projects:Open projects": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "random-note:开始漫游笔记": false,
+      "templates:插入模板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "14405ff5704801f8",
+  "lastOpenFiles": [
+    "attachments",
+    "Notes/a-Java知识系统构建/代码片段/Java8/Java多字段排序.md",
+    "Notes/a-Java知识系统构建/代码片段/Java8/Java stream list sorted 字段为空.md",
+    "Notes/a-Java知识系统构建/Java知识索引.md",
+    "Notes/a-Java知识系统构建/代码片段/Java8",
+    "Notes/g-前端知识/组件使用示例",
+    "Notes/g-前端知识/Vue",
+    "Notes/g-前端知识/前端基础",
+    "🍀 花园导览/🍀 花园导览.md",
+    "🍀 花园导览/👓 如何高效学习.md",
+    "Notes/p-机器学习与人工智能Python",
+    "Notes/l-生活记录",
+    "Notes/k-读书笔记",
+    "Notes/b-企业级框架/MyBatis/MyBatis使用/2.MyBatis：回顾 JDBC.md",
+    "Notes/b-企业级框架/MyBatis/MyBatis使用/1.MyBatis：准备工作.md",
+    "Notes/b-企业级框架/JavaEE基础/JDBC的使用/通过JDBC执行SQL语句.md",
+    "Notes/b-企业级框架/JavaEE基础/JDBC的使用",
+    "Notes/b-企业级框架/JavaEE基础",
+    "Notes/b-企业级框架/日志组件/Java 日志组件 slf4j 的使用和源码分析.md",
+    "Notes/j-工程管理/开发构建/使用 Intellij IDEA 创建 Java 项目.md",
+    "Notes/b-企业级框架/日志组件",
+    "Notes/j-工程管理/开发构建/attachments/b8ff73f568e1cac0ef0feb53c81d4069_MD5.jpg",
+    "Notes/j-工程管理/开发构建/attachments/d001726fb43ebd6910d7bbe859ce4b5b_MD5.jpg",
+    "Notes/j-工程管理/开发构建/attachments/0cf052d54995d0d7e918d493aba523a3_MD5.jpg",
+    "Notes/j-工程管理/开发构建/attachments/a70c51dd7788a5c64ceefff0a3ed99f7_MD5.jpg",
+    "Notes/j-工程管理/开发构建/attachments/4bcbc7641f98a3d13fba44e69cb7a65f_MD5.jpg",
+    "Notes/j-工程管理/开发构建/attachments/cab6a4f35fb94e8e9833da58874117fd_MD5.jpg",
+    "Notes/j-工程管理/开发构建/attachments/e4c71c28e01c26b909e7ded1a6f2d606_MD5.jpg",
+    "Notes/b-企业级框架/MyBatis/MyBatis使用/IDEA.md",
+    "Notes/b-企业级框架/MyBatis/MyBatis使用/Intellij IDEA 2023.3.2.md",
+    "Notes/b-企业级框架/MyBatis/MyBatis框架索引.md",
+    "Notes/b-企业级框架/Spring/Spring源码研究/Spring 源码阅读系列.md",
+    "🍀 花园导览/🗜 效率工具使用.md",
+    "🍀 花园导览/Java编程知识.md",
+    "🍀 花园导览/obsidian 必装插件.md",
+    "README.md",
+    "AboutTheGarden.md",
+    "🍀 花园导览/其他/👬🏻 别的数字花园收录.md",
+    "🍀 花园导览/其他/🏹 已发布长文.md",
+    "Notes/a-Java知识系统构建/6-并发编程/线程池的使用.md",
+    "Notes/a-Java知识系统构建/6-并发编程/并发编程入门.md",
+    "Notes/a-Java知识系统构建/4-集合类框架/常见面试题总结.md",
+    "Notes/a-Java知识系统构建/4-集合类框架/栈与队列.md",
+    "Notes/a-Java知识系统构建/11-设计模式/创建型模式/attachments/Pasted image 20240715182659.png",
+    "Notes/a-Java知识系统构建/11-设计模式/创建型模式/attachments/Pasted image 20240715182627.png",
+    "Pasted image 20240715182333.png",
+    "Spaces/0-Work/Canvas/测试环境集群部署资源.canvas",
+    "Spaces/0-Work/Canvas/映兔后端部署架构图.canvas",
+    "未命名.canvas",
+    "Spaces/0-Work/Canvas/业务开发的流程.canvas",
+    "Spaces/0-Work/Canvas/语义化搜索流程图.canvas",
+    "Spaces/0-Work/Canvas/映兔ingtube-aigc-语义化检索博主技术方案流程图.canvas",
+    "Spaces/0-Work/Canvas/映兔数据流架构图.canvas",
+    "tmp/Spaces/0-Work/Canvas/语义化搜索流程图.canvas",
+    "tmp/Spaces/0-Work/Canvas/映兔研发部署环境全貌.canvas",
+    "tmp/Spaces/0-Work/Canvas/映兔研发Devops流水线全貌.canvas"
+  ]
+}
