@@ -1,13 +1,13 @@
 {
   "accentColor": "",
-  "cssTheme": "",
+  "cssTheme": "Dracula Gemini",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "隐藏LICENSE文件和logseq文件夹",
     "custom-theme"
   ],
-  "theme": "moonstone",
-  "baseFontSize": 14,
+  "theme": "obsidian",
+  "baseFontSize": 20,
   "baseFontSizeAction": true,
   "translucency": false,
   "showViewHeader": true,

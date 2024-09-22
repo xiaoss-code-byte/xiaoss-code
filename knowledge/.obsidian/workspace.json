@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "796b660c8dde5497",
+        "id": "cb00b44c32bece45",
         "type": "tabs",
         "children": [
           {
-            "id": "14405ff5704801f8",
+            "id": "a1249649ba225610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍀 花园导览/🍀 花园导览.md",
+                "file": "Notes/a-Java知识系统构建/12-JVM内存模型/ClassLoader类加载过程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍀 花园导览/🍀 花园导览.md",
+                "file": "Notes/a-Java知识系统构建/12-JVM内存模型/ClassLoader类加载过程.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🍀 花园导览/🍀 花园导览.md",
+                "file": "Notes/a-Java知识系统构建/12-JVM内存模型/ClassLoader类加载过程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🍀 花园导览/🍀 花园导览.md",
+                "file": "Notes/a-Java知识系统构建/12-JVM内存模型/ClassLoader类加载过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍀 花园导览/🍀 花园导览.md"
+                "file": "Notes/a-Java知识系统构建/12-JVM内存模型/ClassLoader类加载过程.md"
               }
             }
           }
@@ -174,22 +174,6 @@
         "id": "bf92a8744d8764e6",
         "type": "tabs",
         "children": [
-          {
-            "id": "8e00d8d7eab509c8",
-            "type": "leaf",
-            "state": {
-              "type": "chronology-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "d77a1adeb31c077e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
           {
             "id": "79c8c7732340cf8d",
             "type": "leaf",
@@ -244,8 +228,25 @@
                 "activeGranularity": 0
               }
             }
+          },
+          {
+            "id": "9888d27b7846a629",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "749e5cf01efd181b",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -253,87 +254,86 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "homepage:Open homepage": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "janitor:Janitor: scan vault": false,
       "publish:发布更改": false,
+      "random-note:开始漫游笔记": false,
+      "templates:插入模板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "cmdr:聚焦上方标签页组": false,
+      "cmdr:聚焦左侧标签页组": false,
+      "dbfolder:创建一个新数据库表": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "omnisearch:Omnisearch": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "omnisearch:Omnisearch": false,
       "notion-like-tables:Create loom": false,
-      "dbfolder:创建一个新数据库表": false,
-      "obsidian-weread-plugin:同步微信读书笔记": false,
-      "cmdr:聚焦上方标签页组": false,
-      "cmdr:聚焦左侧标签页组": false,
-      "obsidian-projects:Open projects": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "copilot:Copilot Chat": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
-      "random-note:开始漫游笔记": false,
-      "templates:插入模板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "14405ff5704801f8",
+  "active": "aa5b6eac40ab5517",
   "lastOpenFiles": [
+    "Notes/a-Java知识系统构建/12-JVM内存模型/ClassLoader加载外部类的方法.md",
+    "Notes/a-Java知识系统构建/12-JVM内存模型/ClassLoader类加载过程.md",
+    "Notes/a-Java知识系统构建/12-JVM内存模型/attachments/223a5bb1e16f264da2e843312ef98196_MD5.jpeg",
+    "Notes/a-Java知识系统构建/12-JVM内存模型/attachments/Pasted image 20240824153616.png",
+    "Notes/a-Java知识系统构建/12-JVM内存模型/attachments",
+    "Notes/a-Java知识系统构建/12-JVM内存模型/JVM内存模型概述.md",
+    "Notes/a-Java知识系统构建/6-并发编程/Ch0-Java并发编程基础/01-Java线程/01-Java线程-使用篇.md",
+    "Notes/a-Java知识系统构建/6-并发编程/Ch0-Java并发编程基础/01-Java线程.md",
+    "Notes/a-Java知识系统构建/6-并发编程/Ch0-Java并发编程基础/01-Java线程/01-Java线程-原理篇.md",
+    "Notes/a-Java知识系统构建/6-并发编程/Ch0-Java并发编程基础/01-Java线程",
+    "Notes/a-Java知识系统构建/6-并发编程/Ch0-Java并发编程基础/attachments/f2782329a70562245b2f6c8b16ef2589_MD5.jpeg",
+    "01-Java线程/01-Java线程-概念篇.md",
+    "01-Java线程",
+    "Notes/a-Java知识系统构建/6-并发编程/Ch0-Java并发编程基础/attachments/Java线程-xmind.png",
+    "Notes/a-Java知识系统构建/6-并发编程/Ch0-Java并发编程基础/00-Java内存模型.md",
+    "Notes/a-Java知识系统构建/6-并发编程/Ch0-Java并发编程基础/attachments/ac071f7135f37a6efc20042918aebe9e_MD5.jpeg",
+    "Notes/a-Java知识系统构建/6-并发编程/Ch0-Java并发编程基础/发编程 Bug 的源头.md",
+    "Notes/a-Java知识系统构建/6-并发编程/Ch0-Java并发编程基础/attachments/3ccfd594eaeade1f0933b15ee1714522_MD5.jpeg",
+    "Notes/a-Java知识系统构建/6-并发编程/Ch0-Java并发编程基础/attachments/Java并发编程-基础篇-并发会导致的问题的解决方法.png",
+    "Notes/a-Java知识系统构建/6-并发编程/Ch0-Java并发编程基础/attachments",
+    "pic/Java并发编程-基础篇-并发会导致的问题的解决方法.png.md",
+    "pic",
+    "Notes/a-Java知识系统构建/6-并发编程/线程池的使用.md",
+    "Notes/a-Java知识系统构建/6-并发编程/Ch0-Java并发编程基础",
+    "Notes/a-Java知识系统构建/6-并发编程/P2024-08-23并发编程基础.md",
+    "Notes/a-Java知识系统构建/6-并发编程/attachments/3ccfd594eaeade1f0933b15ee1714522_MD5.jpeg",
+    "Notes/a-Java知识系统构建/6-并发编程/attachments/Pasted image 20240823154212.png",
+    "Notes/a-Java知识系统构建/6-并发编程/attachments",
+    "Notes/a-Java知识系统构建/11-设计模式/创建型模式/抽象工厂模式.md",
+    "Notes/a-Java知识系统构建/4-集合类框架/attachments",
+    "Notes/a-Java知识系统构建/3-面向对象编程/面向对象高级.md",
+    "Notes/a-Java知识系统构建/4-集合类框架/常见面试题总结.md",
+    "Notes/a-Java知识系统构建/4-集合类框架/栈与队列.md",
+    "Notes/a-Java知识系统构建/11-设计模式/创建型模式/attachments/Pasted image 20240715182555.png",
+    "Notes/a-Java知识系统构建/2-Java中的关键词/Java基础语法.md",
+    "Notes/a-Java知识系统构建/1-Java面向对象基础/面向对象编程入门.md",
+    "🍀 花园导览/🍀 花园导览.md",
     "attachments",
     "Notes/a-Java知识系统构建/代码片段/Java8/Java多字段排序.md",
     "Notes/a-Java知识系统构建/代码片段/Java8/Java stream list sorted 字段为空.md",
     "Notes/a-Java知识系统构建/Java知识索引.md",
     "Notes/a-Java知识系统构建/代码片段/Java8",
-    "Notes/g-前端知识/组件使用示例",
-    "Notes/g-前端知识/Vue",
-    "Notes/g-前端知识/前端基础",
-    "🍀 花园导览/🍀 花园导览.md",
     "🍀 花园导览/👓 如何高效学习.md",
-    "Notes/p-机器学习与人工智能Python",
-    "Notes/l-生活记录",
-    "Notes/k-读书笔记",
     "Notes/b-企业级框架/MyBatis/MyBatis使用/2.MyBatis：回顾 JDBC.md",
     "Notes/b-企业级框架/MyBatis/MyBatis使用/1.MyBatis：准备工作.md",
     "Notes/b-企业级框架/JavaEE基础/JDBC的使用/通过JDBC执行SQL语句.md",
-    "Notes/b-企业级框架/JavaEE基础/JDBC的使用",
-    "Notes/b-企业级框架/JavaEE基础",
-    "Notes/b-企业级框架/日志组件/Java 日志组件 slf4j 的使用和源码分析.md",
-    "Notes/j-工程管理/开发构建/使用 Intellij IDEA 创建 Java 项目.md",
-    "Notes/b-企业级框架/日志组件",
-    "Notes/j-工程管理/开发构建/attachments/b8ff73f568e1cac0ef0feb53c81d4069_MD5.jpg",
-    "Notes/j-工程管理/开发构建/attachments/d001726fb43ebd6910d7bbe859ce4b5b_MD5.jpg",
-    "Notes/j-工程管理/开发构建/attachments/0cf052d54995d0d7e918d493aba523a3_MD5.jpg",
-    "Notes/j-工程管理/开发构建/attachments/a70c51dd7788a5c64ceefff0a3ed99f7_MD5.jpg",
-    "Notes/j-工程管理/开发构建/attachments/4bcbc7641f98a3d13fba44e69cb7a65f_MD5.jpg",
-    "Notes/j-工程管理/开发构建/attachments/cab6a4f35fb94e8e9833da58874117fd_MD5.jpg",
-    "Notes/j-工程管理/开发构建/attachments/e4c71c28e01c26b909e7ded1a6f2d606_MD5.jpg",
-    "Notes/b-企业级框架/MyBatis/MyBatis使用/IDEA.md",
-    "Notes/b-企业级框架/MyBatis/MyBatis使用/Intellij IDEA 2023.3.2.md",
-    "Notes/b-企业级框架/MyBatis/MyBatis框架索引.md",
-    "Notes/b-企业级框架/Spring/Spring源码研究/Spring 源码阅读系列.md",
-    "🍀 花园导览/🗜 效率工具使用.md",
-    "🍀 花园导览/Java编程知识.md",
-    "🍀 花园导览/obsidian 必装插件.md",
-    "README.md",
-    "AboutTheGarden.md",
-    "🍀 花园导览/其他/👬🏻 别的数字花园收录.md",
-    "🍀 花园导览/其他/🏹 已发布长文.md",
-    "Notes/a-Java知识系统构建/6-并发编程/线程池的使用.md",
-    "Notes/a-Java知识系统构建/6-并发编程/并发编程入门.md",
-    "Notes/a-Java知识系统构建/4-集合类框架/常见面试题总结.md",
-    "Notes/a-Java知识系统构建/4-集合类框架/栈与队列.md",
-    "Notes/a-Java知识系统构建/11-设计模式/创建型模式/attachments/Pasted image 20240715182659.png",
-    "Notes/a-Java知识系统构建/11-设计模式/创建型模式/attachments/Pasted image 20240715182627.png",
-    "Pasted image 20240715182333.png",
     "Spaces/0-Work/Canvas/测试环境集群部署资源.canvas",
     "Spaces/0-Work/Canvas/映兔后端部署架构图.canvas",
     "未命名.canvas",
